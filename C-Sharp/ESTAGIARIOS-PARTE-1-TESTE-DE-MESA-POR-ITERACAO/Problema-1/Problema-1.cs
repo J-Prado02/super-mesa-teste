@@ -16,7 +16,7 @@ class Programa
 
         for (int i = 0; i < vetor.Length; i++)
         {
-            Console.WriteLine($"|  Indice: {i} | Vetor: {vetor[i]}  |");
+            
     
         }
     }
