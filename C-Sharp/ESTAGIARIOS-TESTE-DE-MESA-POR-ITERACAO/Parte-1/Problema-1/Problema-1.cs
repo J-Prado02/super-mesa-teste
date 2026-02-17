@@ -15,5 +15,6 @@ class Programa
         vetor [3] = a + b + c;
 
         for (int i = 0; i < vetor.Length; i++);
+
     }
 }
