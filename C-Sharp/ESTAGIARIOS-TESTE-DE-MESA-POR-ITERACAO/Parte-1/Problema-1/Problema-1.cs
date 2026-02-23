@@ -13,7 +13,10 @@ class Programa
         int[] vetor = new int[4];
         vetor [3] = a + b + c;
 
-        for (int i = 0; i < vetor.Length; i++);
+        for (int i = 0; i < vetor.Length; i++)
+        {
+            Console.WriteLine(vetor[i]);
+        }
 
     }
 }
