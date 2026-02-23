@@ -12,8 +12,9 @@ class Programa
         while (a < 6)
         {
             vetor[a] = 10 * a;
-            
+
             a += 1;
+            
         }
     }
 }
